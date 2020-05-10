@@ -1,3 +1,16 @@
-body { background-image: url(bgimage.jpg)
- } 
+body {background-image:url(bg.jpg);
+font-family:"Verdana"; 
+} 
+img {
+  border: 4px solid #000000;
+  border-radius: 3px;
+  padding: 15px;
+  width: 350px;
+  height: 225px;
+  hspace: 15px;
+}
+
+
+
+
 
